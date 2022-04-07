@@ -2,27 +2,27 @@
 {
   "Status": [
     {
-      "name": "Quan"
-      "title": "Post 1"
-      "text": "Hello my name is bla bla bla"
+      "name": "Quan",
+      "title": "Post 1",
+      "text": "Hello my name is bla bla bla",
       "img":"https://pbs.twimg.com/profile_images/1342768807891378178/8le-DzgC_400x400.jpg"
     },
     {
-      "name": "Nhu"
-      "title": "Post 1"
-      "text": "Hello my name is bla bla bla"
+      "name": "Nhu",
+      "title": "Post 1",
+      "text": "Hello my name is bla bla bla",
       "img":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Erythroxylum_novogranatense_var._Novogranatense_%28retouched%29.jpg"
     },
     {
-      "name": "Nguyen"
-      "title": "Post 2"
-      "text": "Hello my name is bla bla bla"
+      "name": "Nguyen",
+      "title": "Post 2",
+      "text": "Hello my name is bla bla bla",
       "img":"https://cdn.tgdd.vn/Products/Images/2443/76471/bhx/nuoc-ngot-sprite-pet-390ml-2-700x467.jpg"
     },
     {
-      "name": "Cocacola"
-      "title": "Post 3"
-      "text": "Hello my name is bla bla bla"
+      "name": "Cocacola",
+      "title": "Post 3",
+      "text": "Hello my name is bla bla bla",
       "img":"https://cdn.diemnhangroup.com/seoulspa/uong-coca-co-beo-khong-1.jpg"
     },
 
@@ -48,16 +48,16 @@
   
    "Group": [
     {
-      "Name": "group1",
+      "Name": "group1"
     },
     {
-      "Name": "group2",
+      "Name": "group2"
     },
     {
-      "Name": "group3",
+      "Name": "group3"
     },
     {
-      "Name": "group4",
+      "Name": "group4"
     },
     ]
 }
