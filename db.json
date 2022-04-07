@@ -1,31 +1,32 @@
 
 {
-  "Status": [
+  "posts": [
     {
-      "name": "Quan",
-      "title": "Post 1",
-      "text": "Hello my name is bla bla bla",
-      "img":"https://pbs.twimg.com/profile_images/1342768807891378178/8le-DzgC_400x400.jpg"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "name": "Nhu",
-      "title": "Post 1",
-      "text": "Hello my name is bla bla bla",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Erythroxylum_novogranatense_var._Novogranatense_%28retouched%29.jpg"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "name": "Nguyen",
-      "title": "Post 2",
-      "text": "Hello my name is bla bla bla",
-      "img":"https://cdn.tgdd.vn/Products/Images/2443/76471/bhx/nuoc-ngot-sprite-pet-390ml-2-700x467.jpg"
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "name": "Cocacola",
-      "title": "Post 3",
-      "text": "Hello my name is bla bla bla",
-      "img":"https://cdn.diemnhangroup.com/seoulspa/uong-coca-co-beo-khong-1.jpg"
-    },
-
-  ]
- 
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
