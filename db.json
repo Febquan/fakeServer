@@ -26,38 +26,6 @@
       "img":"https://cdn.diemnhangroup.com/seoulspa/uong-coca-co-beo-khong-1.jpg"
     },
 
-  ],
-  "Friend": [
-    {
-      "Name": "Nhu",
-      "online": "true",
-    },
-    {
-      "Name": "Nguyen",
-      "online": "true",
-    },
-    {
-      "Name": "Quan",
-      "online": "true",
-    },
-    {
-      "Name": "Ngoc",
-      "online": "False",
-    },
-    ],
-  
-   "Group": [
-    {
-      "Name": "group1"
-    },
-    {
-      "Name": "group2"
-    },
-    {
-      "Name": "group3"
-    },
-    {
-      "Name": "group4"
-    },
-    ]
+  ]
+ 
 }
